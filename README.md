@@ -44,7 +44,7 @@ Facade設計模式是一種結構型設計模式，<br>
 ---
 
 ## 實作範例:
-- [待補...]() 
+- [Example](https://github.com/RC-Dev-Tech/design-pattern-facade/blob/main/C%2B%2B/main.cpp) - Prototype Pattern (C++) 
 
 ---
 
